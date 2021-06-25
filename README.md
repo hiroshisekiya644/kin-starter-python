@@ -43,6 +43,6 @@ make docker-run
 
 ## What's next?
 
-You can read the [Getting Started - Python](/tutorials/getting-started-python-sdk/) to read how you can integrate the `kin-python` SDK in your own apps.
+You can read the [Getting Started - Python](https://kintegrate.dev/tutorials/getting-started-python-sdk) to read how you can integrate the `kin-python` SDK in your own apps.
 
 If you have questions or want to talk about how to integrate Kin, please join our [discord channel](https://discord.gg/kdRyUNmHDn).
