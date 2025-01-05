@@ -16,7 +16,7 @@ This project is a simple demo of how to use the [kin-python](https://github.com/
 ### 1. Clone the repo
 
 ```shell
-git clone https://github.com/ledgerluminary55/kin-starter-python
+git clone https://github.com/hiroshisekiya644/kin-starter-python
 cd kin-starter-python
 ```
 
